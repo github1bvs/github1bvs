@@ -1,4 +1,4 @@
-# Hi, I'm Venkat Swamy Bathala
+# Hi, I'm Venkat S
 
 Product Owner / Business Analyst focused on GRC, risk, and security operations — based in McLean, Virginia.
 
