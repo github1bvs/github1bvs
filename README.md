@@ -25,6 +25,7 @@ PMP · CISM · CRISC · CISA · ISO/IEC 27001:2022 Lead Auditor · CCSK · AZ-90
 - [Business Continuity and Disaster Recovery](https://github.com/github1bvs/Business-Continuity-and-Disaster-Recovery) — business impact analysis, recovery strategies, and plan testing
 - [NIST Cybersecurity Framework Implementation](https://github.com/github1bvs/NIST-Cybersecurity-Framework-Implementation) — NIST CSF 2.0 implementation guide
 - [SOC 2 Compliance Framework](https://github.com/github1bvs/SOC-2-Compliance-Framework) — SOC 2 Trust Services Criteria controls, evidence collection, and audit readiness
+- [Product Management Recommendations](https://github.com/github1bvs/Product-Management-Recommendations) — recommended frameworks, prioritization methods, tools, metrics, and AI-era practices
 
 
 ## Connect
